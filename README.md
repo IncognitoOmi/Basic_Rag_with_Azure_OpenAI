@@ -18,7 +18,19 @@ cd <repository_folder>
 
 ### 2️⃣ Install Dependencies
 ```sh
-pip install -r requirements.txt
+langchain
+python-dotenv
+langchain-openai
+langchain-core
+langchain-community
+bs4
+faiss-cpu
+pypdf
+arxiv
+pymupdf
+wikipedia
+lxml
+langchain_huggingface
 ```
 
 ### 3️⃣ Configure Environment Variables
